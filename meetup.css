@@ -1,0 +1,62 @@
+/* Foundational AI Meetup@UTK page styles. */
+
+#layout-menu {
+    min-width: 190px;
+    padding: 16px 14px;
+    border-color: #d6d2ca;
+    background: #f6f6f6;
+}
+
+#layout-menu .menu-category:first-child {
+    margin: 0 0 18px;
+    padding: 0 4px 18px;
+    border-bottom: 3px solid #ff8200;
+}
+
+#layout-menu .meetup-logo {
+    display: block;
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+}
+
+#layout-menu .menu-category {
+    border-bottom-color: #9d968d;
+}
+
+#layout-menu a.current:link,
+#layout-menu a.current:visited {
+    color: #c44800;
+}
+
+#layout-content {
+    max-width: 900px;
+    padding-left: 2em;
+}
+
+h1, h2, h3 {
+    color: #c44800;
+}
+
+#meetup-schedule {
+    width: 100%;
+}
+
+@media (max-width: 700px) {
+    table#tlayout,
+    table#tlayout > tbody,
+    table#tlayout > tbody > tr,
+    #layout-menu,
+    #layout-content {
+        display: block;
+        width: auto;
+    }
+
+    #layout-menu {
+        white-space: normal;
+    }
+
+    #layout-content {
+        padding: 0 16px;
+    }
+}
