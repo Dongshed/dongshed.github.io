@@ -1,0 +1,32 @@
+# jemdoc: menu{MEETUP_MENU}{meetup.html}, addcss{meetup.css?v=20260913-3}, showsource
+= Foundational AI Meetup@UTK
+
+== About the Meetup
+The Foundational AI Meetup@UTK is a forum for graduate students and researchers at the University of Tennessee, Knoxville (UTK), Oak Ridge National Laboratory (ORNL), and neighboring institutions to exchange ideas, present work, and build an interdisciplinary research community around the foundations and frontiers of artificial intelligence.
+
+The meetup supports the interdisciplinary vision of [https://research.utk.edu/aitn/ AI Tennessee], which connects researchers and educators to advance AI innovation, scientific discovery, and real-world impact. It is also motivated by UT's [https://research.utk.edu/cluster-hire/foundational-artificial-intelligence/ Foundational Artificial Intelligence] initiative and its goal of deepening our understanding of intelligence and developing the theories, models, and learning systems needed for the next generation of AI.
+
+== Scope
+The meetup welcomes research spanning AI foundations and learning, AI systems and computing, AI for science and autonomous discovery, and mission-driven applications of AI.
+
+== Meeting Information
+- *Time:* To be announced
+- *Location:* To be announced
+- *Format:* Each one-hour session features either one 45-minute talk followed by 15 minutes of questions and discussion, or two 20-minute talks, each followed by 10 minutes of questions and discussion.
+
+{{<span id="fall-2026"></span>}}
+== Fall 2026
+~~~
+{}{table}{meetup-schedule}
+*Date* | *Presenter* | *Paper or Topic* ||
+To be announced | To be announced | To be announced
+~~~
+
+== Organizers
+- [https://dongshed.github.io Dongsheng Ding]
+- [https://xiongyexiao.com Xiongye Xiao]
+
+== Participate
+Graduate students, postdoctoral researchers, faculty, and research staff from UTK and neighboring institutions are invited to attend and present. We welcome talks on completed or ongoing research, emerging ideas, methods, tools, datasets, and recent papers within the meetup's scope. If you would like to give a talk or suggest a topic or speaker, please contact one of the organizers through the links above.
+
+Please check this page for schedule updates.
