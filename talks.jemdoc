@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{talks.html}, showsource
+= Dongsheng Ding - Talks
+[https://tickle.utk.edu Tickle College of Engineering], [https://www.utk.edu University of Tennessee, Knoxville]
+
+== Recent Talks
+
+- [.\talks\2026_IFAC.pdf Constrained policy optimization: A tale of regularization and optimism]\n
+IFAC Workshop on Contextual Control: Integrating Learning, Optimization, and Physical Structures in Control Systems, Busan, Korea, 2026 \n
+Note: [.\papers\23dinglast.pdf paper].
+
+- [.\talks\2026_UCSD_Yusu.pdf Controllable generative diffusion models: A constrained optimization view]\n 
+[https://yusu.belkin-wang.org Yusu Wang]’s Group Seminar, University of California, San Diego, 2026\n
+Note: [.\papers\25khalaficomposition.pdf paper] and [.\papers\25zhangalignment.pdf paper].
+
+- [.\talks\2025_UTK_Math.pdf Constrained policy optimization for large language model alignment] \n
+Statistics and Data Science Seminar, University of Tennessee, Knoxville, 2025 \n
+Note: [.\papers\24huangone.pdf paper] and [.\papers\25zhangalignment.pdf paper].
+
+- [.\talks\2025_SIAM_NNP.pdf Constrained policy optimization for large language model alignment] \n
+SIAM New York-New Jersey-Pennsylvania Section Conference, PSU, 2025 \n
+Note: [.\papers\25zhangalignment.pdf paper].
+
+- [.\talks\2025_UTK_EECS.pdf Requirement-driven machine decision-making: From reinforcement learning to generative artificial intelligence] \n
+EECS Faculty Candidate Seminar, University of Tennessee, Knoxville, 2025 \n
+
+- [.\talks\2024_TAMIDS.pdf Multi-agent reinforcement learning for large-scale Markov potential games] \n
+Workshop on Multi-Agent Learning in Dynamic Environments, Texas A&M Institute of Data Science, TAMU, 2024 \n
+ESE PhD Colloquium, UPenn, 2024 \n
+Note: [.\papers\22dingindependent.pdf paper].
+
+- [.\talks\2024_IOS.pdf Constrained policy optimization: A tale of regularization and optimism] \n
+INFORMS Optimization Society Conference, Houston, Texas, 2024 \n
+ESE PhD Colloquium, UPenn, 2023 \n
+Note: [.\papers\23dinglast.pdf paper].
+
+- [.\talks\2023_SafeRL.pdf Provable constrained policy optimization in reinforcement learning]\n
+Safe Reinforcement Learning Online Seminar, Virtual, 2023 \n
+Note: [.\papers\25dingconvergence.pdf paper] and [.\papers\23dinglast.pdf paper].
+
+- [.\talks\2022_INFORMS.pdf Finite-time performance of policy optimization methods for constrained reinforcement learning] \n
+INFORMS 2022 Annual Meeting, Indianapolis, Indiana, 2022 \n
+Note:  [.\papers\20dingnatural.pdf paper] and [.\papers\25dingconvergence.pdf paper].
