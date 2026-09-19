@@ -5,12 +5,12 @@ table#tlayout { width: 100%; }
 td { padding-top: 0.5em; padding-bottom: 0.5em; text-align: left; }
 h1 { line-height: 1.2; }
 .archive-note { color: #555; }
-.course-table { width: 100%; border-collapse: collapse; }
+.course-table { width: auto; max-width: 100%; border-collapse: collapse; table-layout: auto; }
 .course-table th, .course-table td {
   border: 1px solid #888;
-  padding: 0.65em 0.8em;
+  padding: 0.4em 0.65em;
   text-align: left;
-  vertical-align: top;
+  vertical-align: middle;
   line-height: 1.4;
 }
 .course-table th { background: #f6f6f6; }
@@ -18,10 +18,6 @@ h1 { line-height: 1.2; }
 .course-table ul { margin: 0; padding-left: 1.2em; }
 .course-table li + li { margin-top: 0.3em; }
 .course-table .readings { margin-top: 0.7em; }
-#schedule .week { width: 13%; }
-#schedule .number { width: 5%; }
-#schedule .topic { width: 22%; }
-#schedule .resources { width: 60%; }
 #schedule .week-note { display: block; margin-top: 0.4em; font-size: 90%; white-space: normal; color: #555; }
 .table-scroll { overflow-x: auto; margin-bottom: 1em; }
 a:focus-visible { outline: 2px solid #224b8d; outline-offset: 3px; }
