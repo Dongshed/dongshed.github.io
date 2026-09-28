@@ -64,16 +64,6 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 
-#layout-content a {
-	text-decoration: underline;
-	text-underline-offset: 0.12em;
-}
-
-#layout-content a:hover {
-	border-bottom: none;
-	text-decoration-thickness: 0.12em;
-}
-
 a:focus-visible {
 	outline: 2px solid #c44800;
 	outline-offset: 2px;
