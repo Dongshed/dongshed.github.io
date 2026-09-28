@@ -28,7 +28,9 @@ I received my PhD in Electrical Engineering from the [https://www.usc.edu Univer
 
 
 == Research Interests
-I develop optimization and control foundations for machine decision-making systems that must satisfy explicit requirements, including safety, feasibility, alignment, and robustness. My work spans constraint-led generative modeling, constrained reinforcement learning, and multi-agent decision-making.
+My research focuses on application of principles and tools in optimization and control to the study of requirement-driven machine decision-making. I am particularly interested in how constraints, arising from system requirements, shape decision-making in artificial intelligence systems. My current research interests include:
+- *Foundations of Generative Artificial Intelligence*, with an emphasis on understanding and enabling controlled generation in generative models such as large language models and diffusion models.
+- *Foundations of Reinforcement Learning*, particularly in constrained dynamical systems, where agents must learn to act while satisfying operational constraints.
 
 == Representative Papers
 
