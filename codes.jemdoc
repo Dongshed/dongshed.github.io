@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{codes.html}, showsource
+= Dongsheng Ding - Codes
+[https://tickle.utk.edu Tickle College of Engineering], [https://www.utk.edu University of Tennessee, Knoxville]
+
+== Constrained Diffusion Models
+
+- [papers/24khalaficonstrained.pdf paper], [https://github.com/shervinkhal/Constrained_Diffusion_Dual_Training GitHub].
+
+== Safety Alignment of Large Language Models
+
+- [papers/24huangone.pdf paper], [https://github.com/shuoli90/CAN GitHub].
+
+== Resilient Constrained Reinforcement Learning
+
+- [papers/24dingresilient.pdf paper], [https://github.com/ZhengyanHuan/Resilient-Constrained-Reinforcement-Learning GitHub].
+
+== Last-iterate Convergence of Constrained Reinforcement Learning
+
+- [papers/23dinglast.pdf paper], [talks/2024_IOS.pdf talk], [https://github.com/Dongshed/Last-iterate-Convergence-of-Constrained-Reinforcement-Learning GitHub].
+
+== Faster Convergence of Independent Policy Gradient for Markov Potential Games
+
+- [papers/22dingindependent.pdf paper], [talks/2024_TAMIDS.pdf talk], [https://github.com/Dongshed/Independent-policy-gradient-for-large-scale-Markov-potential-games GitHub].
+
+
+
+
+
+
+
+

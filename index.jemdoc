@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Dongsheng Ding
+[https://tickle.utk.edu Tickle College of Engineering], [https://www.utk.edu University of Tennessee, Knoxville]
+
+~~~
+{}{img_left}{headshot_24Feb8.jpg}{Dongsheng Ding}{180px}{270px}
+*Assistant Professor* \n
+[https://eecs.utk.edu Department of Electrical Engineering and Computer Science] \n
+[https://tickle.utk.edu Tickle College of Engineering] \n
+[https://www.utk.edu University of Tennessee, Knoxville] 
+\n
+\n
+\n
+\n
+
+*Office*: 315 Min H. Kao Building \n
+*Address*: 1520 Middle Drive, Knoxville, TN 37996-2250 \n
+*Phone*: +1-(213)-574-9471 \n
+*Email*: dongshed at utk dot edu \n
+*URL*: [https://dongshed.github.io]
+~~~
+
+
+== About Me
+I am an Assistant Professor in the [https://eecs.utk.edu Department of Electrical Engineering and Computer Science] at the [https://www.utk.edu University of Tennessee, Knoxville]. I am also a member of the [https://research.utk.edu/aitn/ AI Tennessee]. 
+I was a Postdoctoral Researcher in the [https://www.ese.upenn.edu Department of Electrical and Systems Engineering] at the [https://www.upenn.edu University of Pennsylvania] under the supervision of Professor [https://alelab.seas.upenn.edu Alejandro Ribeiro].
+I received my PhD in Electrical Engineering from the [https://www.usc.edu University of Southern California] under the supervision of Professor [https://viterbi-web.usc.edu/~mihailo/ Mihailo R. Jovanovic]. I received my BE in Automation and ME in Control Theory and Engineering from [https://www.zju.edu.cn/english/ Zhejiang University], and my MS in Electrical Engineering from the [https://twin-cities.umn.edu University of Minnesota, Twin Cities].
+
+
+== Research Interests
+I develop optimization and control foundations for machine decision-making systems that must satisfy explicit requirements, including safety, feasibility, alignment, and robustness. My work spans constraint-led generative modeling, constrained reinforcement learning, and multi-agent decision-making.
+
+== Representative Papers
+
+=== Constraint-Led Generative Modeling
+
+- [papers/26khalafiunlearning.pdf Unlearning in diffusion models: A unified framework with KL divergence and likelihood constraints]
+- [papers/25khalaficomposition.pdf Composition and alignment of diffusion models using constrained learning]
+- [papers/24khalaficonstrained.pdf Constrained diffusion models via dual training]
+- [papers/25zhangalignment.pdf Alignment of large language models with constrained learning]
+
+=== Constrained Reinforcement Learning
+
+- [papers/25dingconvergence.pdf Convergence and sample complexity of natural policy gradient primal-dual methods for constrained MDPs]
+- [papers/25rozadadeterministic.pdf Deterministic policy gradient primal-dual methods for continuous-space constrained MDPs]
+- [papers/24dingresilient.pdf Resilient constrained reinforcement learning]
+- [papers/23dinglast.pdf Last-iterate convergent policy gradient primal-dual methods for constrained MDPs]
+
+=== Multi-Agent Decision-Making
+
+- [papers/23dingprovably.pdf Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning]
+- [papers/22dingindependent.pdf Independent policy gradient for large-scale Markov potential games: sharper rates, function approximation, and game-agnostic convergence]
+
+[papers.html See all papers.]
+
+== For Prospective Students
+I’m looking for self-motivated students with strong analytical and programming skills who are interested in machine decision-making, especially optimization, learning, and control under constraints. Please review my recent papers and talks before reaching out. If you’re excited by this work and see a strong fit, email me to schedule a meeting, and feel free to follow up if you don’t hear back.

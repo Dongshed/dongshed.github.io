@@ -1,0 +1,195 @@
+# jemdoc: menu{MENU}{papers.html}, showsource
+= Dongsheng Ding - Papers
+[https://tickle.utk.edu Tickle College of Engineering], [https://www.utk.edu University of Tennessee, Knoxville]
+
+== Preprints 
+
+- Where to spend rollouts: Hit-utility optimal rollout allocation for group-based RLVR \n
+Tao Wang, Shuo Li, Yan Sun, Dongsheng Ding, Edgar Dobriban \n
+Note: [https://arxiv.org/abs/2605.07114v1 arXiv:2605.07114v1]; under review. 
+
+== Refereed Papers
+
+*2026*
+
+- Convergence of natural policy gradient primal-dual methods for constrained convex MDPs \n
+Dongsheng Ding \n
+65th IEEE Conference on Decision and Control, 2026. \n
+Note: accepted and to appear.
+
+- [papers/26khalafiunlearning.pdf Unlearning in diffusion models: A unified framework with KL divergence and likelihood constraints]\n
+Shervin Khalafi\*, Alejandro Ribeiro, Dongsheng Ding\*\n
+/43rd International Conference on Machine Learning/, 2026. \n
+Note: \*corresponding authors; to appear; also [https://arxiv.org/abs/2605.30825 arXiv:2605.30825].
+
+*2025*
+
+- [papers/25zhangalignment.pdf Alignment of large language models with constrained learning] \n
+Botong Zhang, Shuo Li, Ignacio Hounie, Osbert Bastani, Dongsheng Ding\*, Alejandro Ribeiro\n
+/Advances in Neural Information Processing Systems/, 2025. \n
+Note: \*corresponding author; [posters/25zhangalignment.pdf poster]; also [https://arxiv.org/abs/2505.19387 arXiv:2505.19387] (*oral presentation* at [https://constrained-opt-ml.github.io/ COML Workshop]).
+
+- [papers/25khalaficomposition.pdf Composition and alignment of diffusion models using constrained learning] \n
+Shervin Khalafi\*, Ignacio Hounie, Dongsheng Ding\*, Alejandro Ribeiro\n
+/Advances in Neural Information Processing Systems/, 2025. \n
+Note: \*corresponding authors; [posters/25khalaficomposition.pdf poster]; also [https://arxiv.org/abs/2508.19104 arXiv:2508.19104].
+
+- [papers/25dingconvergence.pdf Convergence and sample complexity of natural policy gradient primal-dual methods for constrained MDPs] \n
+Dongsheng Ding, Kaiqing Zhang, Jiali Duan, Tamer Basar, and Mihailo R. Jovanovic \n
+/J. Mach. Learn. Res./, 2025. \n
+Note: a journal extension of [papers/20dingnatural.pdf the paper]; also [https://arxiv.org/abs/2206.02346 arXiv:2206.02346].
+
+- [papers/25rozadadeterministic.pdf Deterministic policy gradient primal-dual methods for continuous-space constrained MDPs] \n
+Sergio Rozada\*, Dongsheng Ding\*, Antonio G. Marques, Alejandro Ribeiro \n
+/AAAI Conference on Artificial Intelligence/, 2025. \n
+Note: \*corresponding authors; [posters/25rozadadeterministic.pdf poster]; also [https://arxiv.org/pdf/2408.10015 arXiv:2408.10015].
+
+*2024*
+
+- [papers/24khalaficonstrained.pdf Constrained diffusion models via dual training] \n
+Shervin Khalafi, Dongsheng Ding\*, and Alejandro Ribeiro \n
+/Advances in Neural Information Processing Systems/, 2024. \n
+Note: \*corresponding author; [https://nips.cc/media/PosterPDFs/NeurIPS%202024/96012.png?t=1733931717.9438694 poster].
+
+- [papers/24huangone.pdf One-shot safety alignment for large language models via optimal dualization] \n
+Xinmeng Huang, Shuo Li, Edgar Dobriban, Osbert Bastani, Hamed Hassani, Dongsheng Ding\* \n
+/Advances in Neural Information Processing Systems/, 2024. (*spotlight*) \n
+Note: \*corresponding author; [https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94361.png?t=1732079715.886703 poster]; also [https://neurips.cc/virtual/2024/poster/94361 video].
+
+- [papers/24dingresilient.pdf Resilient constrained reinforcement learning] \n
+Dongsheng Ding, Zhengyan Huan, and Alejandro Ribeiro \n
+/27th International Conference on Artificial Intelligence and Statistics/, 2024.
+
+*2023*
+
+- [papers/23dinglast.pdf Last-iterate convergent policy gradient primal-dual methods for constrained MDPs] \n
+Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, and Alejandro Ribeiro \n
+/Advances in Neural Information Processing Systems/, 2023. \n
+Note: \*alphabetical order; [posters/23dinglast.png poster], [slides/23dinglast.pdf slides], [https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps?ref=search-presentations video].
+
+- [papers/23dingprovably.pdf Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning] \n
+Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic \n
+/5th Annual Conference on Learning for Dynamics and Control/, 2023. \n
+Note: [posters/23dingprovably.pdf poster].
+
+*2022*
+
+- [papers/22dingpolicy.pdf Policy gradient primal-dual mirror descent for constrained MDPs with large state spaces] \n
+Dongsheng Ding and Mihailo R. Jovanovic \n
+/61st IEEE Conference on Decision and Control/, 2022. \n
+Note: [slides/22dingpolicy.pdf slides].
+
+- [papers/22dingindependent.pdf Independent policy gradient for large-scale Markov potential games: sharper rates, function approximation, and game-agnostic convergence] \n
+Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, and Mihailo R. Jovanovic \n
+/39th International Conference on Machine Learning/, 2022. (*long talk*) \n
+Note: \*alphabetical order; [posters/22dingindependent.png poster], [slides/22dingindependent.pdf slides], [https://slideslive.com/38983099/independent-policy-gradient-for-largescale-markov-potential-games-sharper-rates-function-approximation-and-gameagnostic-convergence video].
+
+- [papers/22dingconvergence.pdf Convergence and optimality of policy gradient primal-dual method for constrained Markov decision processes] \n
+Dongsheng Ding, Kaiqing Zhang, Tamer Basar, and Mihailo R. Jovanovic \n
+/2022 American Control Conference/, 2022. \n
+Note: [slides/22dingconvergence.pdf slides].
+
+*2021*
+
+- [papers/21dingprovably.pdf Provably efficient safe exploration via primal-dual policy optimization] \n
+Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic \n
+/24th International Conference on Artificial Intelligence and Statistics/, 2021. (*oral presentation*) \n
+Note: [posters/21dingprovably.png poster], [slides/21dingprovably.pdf slides], [https://slideslive.com/38953411/oral-provably-efficient-safe-exploration-via-primaldual-policy-optimization?ref=search-presentations video].
+
+- [papers/21dingbyzantine.pdf Byzantine-resilient distributed learning under constraints] \n
+Dongsheng Ding, Xiaohan Wei, Hao Yu, and Mihailo R. Jovanovic \n
+/2021 American Control Conference/, 2021. \n
+Note: [slides/21dingbyzantine.pdf slides].
+
+- [papers/21dingdiscounted.pdf Discounted online Newton method for time-varying time series prediction] \n
+Dongsheng Ding, Jianjun Yuan, and Mihailo R. Jovanovic \n
+/2021 American Control Conference/, 2021. \n
+Note: [slides/21dingdiscounted.pdf slides].
+
+*2020*
+
+- [papers/20dingnatural.pdf Natural policy gradient primal-dual method for constrained Markov decision processes] \n
+Dongsheng Ding, Kaiqing Zhang, Tamer Basar, and Mihailo R. Jovanovic \n
+/Advances in Neural Information Processing Systems/, 2020. \n
+Note: [posters/20dingnatural.png poster], [slides/20dingnatural.pdf slides], [https://slideslive.com/38937216/natural-policy-gradient-primaldual-method-for-constrained-markov-decision-processes?ref=search-presentations video].
+
+- [papers/20dingglobal.pdf Global exponential stability of primal-dual gradient flow	dynamics based on the proximal augmented Lagrangian: A Lyapunov-based approach] \n
+Dongsheng Ding and Mihailo R. Jovanovic \n
+/59th IEEE Conference on Decision and Control/, 2020. \n
+Note: [slides/20dingglobal.pdf slides].
+
+*2019*
+
+- [papers/19dingfast.pdf  Fast multi-agent temporal-difference learning via homotopy stochastic primal-dual method] \n
+Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic \n
+/Optimization Foundations for Reinforcement Learning Workshop/, 2019. \n
+Note: [posters/19dingfast.pdf poster]; also [https://arxiv.org/abs/1908.02805 arXiv:1908.02805].
+
+- [papers/19dingdistributed.pdf Distributed robust statistical learning: Byzantine mirror descent] \n
+Dongsheng Ding, Xiaohan Wei, and Mihailo R. Jovanovic \n
+/58th IEEE Conference on Decision and Control/, 2019 \n
+Note: [posters/19dingdistributed.pdf poster], [slides/19dingdistributed.pdf slides].
+
+- [papers/19dingglobal.pdf Global exponential stability of primal-dual gradient flow dynamics based on the proximal augmented Lagrangian] \n
+Dongsheng Ding and Mihailo R. Jovanovic \n
+/2019 American Control Conference/, 2019. \n
+Note: [slides/19dingglobal.pdf slides].
+
+*2018*
+
+- [papers/18dingan.pdf An exponentially convergent primal-dual algorithm for nonsmooth composite minimization] \n
+Dongsheng Ding, Bin Hu, Neil K. Dhingra, and Mihailo R. Jovanovic \n
+/57th IEEE Conference on Decision and Control/, 2018. \n
+Note: [slides/18dingan.pdf slides].
+
+- [papers/18dinga.pdf A primal-dual Laplacian gradient flow dynamics for distributed resource allocation problems] \n
+Dongsheng Ding and Mihailo R. Jovanovic \n
+/2018 American Control Conference/, 2018. \n
+Note: [slides/18dinga.pdf slides].
+
+*2016 and earlier*
+
+-  [papers/16wangadaptive.pdf Adaptive Mittag-Leffler stabilization of a class of fractional order uncertain nonlinear systems] \n
+Qiao Wang, Jianliang Zhang, Dongsheng Ding, and Donglian Qi \n
+/Asian J. Control/, 2016.
+
+- [papers/15dingnon.pdf Nonlinear Mittag-Leffler stabilization of commensurate fractional-order nonlinear systems] \n
+Dongsheng Ding, Donglian Qi, and Qiao Wang \n
+/IET Control Theory Appl./, 2015
+
+- [papers/15dingasymptotic.pdf Asymptotic pseudo-state stabilization of uncertain fractional-order nonlinear systems with additive disturbance] \n
+Dongsheng Ding, Donglian Qi, and Qiao Wang \n
+/Nonlinear Dyn./, 2015.
+
+- [papers/15wangmittag.pdf Mittag-Leffler synchronization of uncertain fractional order chaotic systems] \n
+Qiao Wang, Dongsheng Ding, and Donglian Qi \n
+/Chinese Physics B/, 2015.
+
+- [papers/14dingadaptive.pdf Adaptive Mittag-Leffler stabilization of commensurate fractional-order nonlinear systems] \n
+Dongsheng Ding, Donglian Qi, Yao Meng, and Li Xu \n
+/53rd IEEE Conference on Decision and Control/, 2014.
+
+- [papers/14dingstrategy.pdf Strategy analysis of an evolutionary spectrum sensing game] \n
+Dongsheng Ding, Guoyue Zhang, Donglian Qi, and Huhu Zhang \n
+/Intelligent Computing and Applications (LSMS \& ICSEE)/, 2014.
+
+- [papers/14dingalternative.pdf Alternative LMI characterizations for fractional-order linear systems] \n
+Dongsheng Ding, Donglian Qi, and Qiao Wang \n
+/33rd Chinese Control Conference/, 2014.
+
+- [papers/14dingfractional.pdf Fractional-order integral state space modeling and quasi state analysis via block operational matrix scheme] \n
+Dongsheng Ding, Donglian Qi, and Qiao Wang \n
+/26th Chinese Control and Decision Conference/, 2014.
+
+- [papers/12dingconvergence.pdf Convergence analysis and performance of an extended central force optimization algorithm] \n
+Dongsheng Ding, Donglian Qi, Xiaoping Luo, Jinfei Chen, Xuejie Wang, and Pengying Du \n
+/Appl. Math. Comput./, 2012
+
+- [papers/11dinga.pdf A convergence proof and parameter analysis of central force optimization algorithm] \n
+Dongsheng Ding, Xiaoping Luo, Jinfen Chen, Xuejie Wang, Pengying Du, and Yunfei Guo \n
+/J. Convergence Inf. Technol./, 2011.
+
+
+
+
+
