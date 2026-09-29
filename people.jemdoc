@@ -1,10 +1,10 @@
-# jemdoc: menu{MENU}{people.html}, showsource
+# jemdoc: menu{MENU}{people.html}, addcss{people.css}, showsource
 = Dongsheng Ding - Students
 [https://tickle.utk.edu Tickle College of Engineering], [https://www.utk.edu University of Tennessee, Knoxville]
 
 == Current Students
 
-=== University of Tennessee, Knoxville
+=== University of Tennessee, Knoxville — Research Advisor
 
 - Anik Saha \n
 Topic: Constraint-led generative modeling \n
@@ -12,15 +12,25 @@ Topic: Constraint-led generative modeling \n
 - Mitchell Loh \n
 Topic: Constrained Markov games \n
 
-- Jisu Park \n
-Topic: Constrained reinforcement learning \n
+~~~
+{}{raw}
+<div class="student-profile">
+<img class="student-headshot" src="students/headshot_Jisu%20Park.jpeg" alt="Headshot of Jisu Park" width="120" height="150" decoding="async" />
+<div class="student-details">
+<p class="student-name"><a href="mailto:jpark156@vols.utk.edu">Jisu Park</a></p>
+<p><strong>Topic:</strong> Constrained reinforcement learning</p>
+<p><strong>Alma mater:</strong> Yonsei University, Seoul, Korea</p>
+<p><strong>Hometown:</strong> Seoul, Korea</p>
+</div>
+</div>
+~~~
 
-=== University of Pennsylvania
+=== University of Pennsylvania — Research Mentor
 
 - [https://shervinkhalafi.github.io/ Shervin Khalafi] \n
 Topic: Constrained learning for diffusion models \n
 
-== Former Students
+== Former Research Mentees
 
 === University of Pennsylvania
 
@@ -34,10 +44,18 @@ PhD Thesis: [https://www.proquest.com/docview/3158306577?fromopenview=true&pq-or
 First Position: Quantitative Researcher, Citadel Securities \n
 Current Position: Quantitative Researcher, Citadel Securities
 
-- [https://www.linkedin.com/in/zhengyan-huan-4a4b89250 Zhengyan Huan] \n
-Paper: [papers/24dingresilient.pdf Resilient constrained reinforcement learning] \n
-First Position: Doctoral Student, Tufts University \n
-Current Position: Doctoral Student, Tufts University
+~~~
+{}{raw}
+<div class="student-profile">
+<img class="student-headshot" src="students/headshot_Zhengyan%20Huan.JPG" alt="Headshot of Zhengyan Huan" width="120" height="150" decoding="async" />
+<div class="student-details">
+<p class="student-name"><a href="https://zhengyanhuan.github.io">Zhengyan Huan</a></p>
+<p><strong>Paper:</strong> <a href="papers/24dingresilient.pdf">Resilient constrained reinforcement learning</a></p>
+<p><strong>First Position:</strong> Doctoral Student, Tufts University</p>
+<p><strong>Current Position:</strong> Doctoral Student, Tufts University</p>
+</div>
+</div>
+~~~
 
 === King Juan Carlos University
 - [https://sergiorozada12.github.io/ Sergio Rozada] \n
