@@ -4,10 +4,20 @@
 
 == Current Students
 
-=== University of Tennessee, Knoxville — Research Advisor
+=== University of Tennessee, Knoxville
 
-- Anik Saha \n
-Topic: Constraint-led generative modeling \n
+~~~
+{}{raw}
+<div class="student-profile">
+<img class="student-headshot" src="students/headshot_Anik%20Saha.jpeg" alt="Headshot of Anik Saha" width="120" height="150" decoding="async" />
+<div class="student-details">
+<p class="student-name"><a href="mailto:asaha15@vols.utk.edu">Anik Saha</a></p>
+<p><strong>Topic:</strong> Constraint-led generative modeling</p>
+<p><strong>Alma mater:</strong> Bangladesh University of Engineering and Technology</p>
+<p><strong>Hometown:</strong> Dhaka, Bangladesh</p>
+</div>
+</div>
+~~~
 
 - Mitchell Loh \n
 Topic: Constrained Markov games \n
@@ -25,7 +35,9 @@ Topic: Constrained Markov games \n
 </div>
 ~~~
 
-=== University of Pennsylvania — Research Mentor
+== Current Research Mentee
+
+=== University of Pennsylvania
 
 - [https://shervinkhalafi.github.io/ Shervin Khalafi] \n
 Topic: Constrained learning for diffusion models \n
