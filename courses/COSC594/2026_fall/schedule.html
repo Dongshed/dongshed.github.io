@@ -11,14 +11,14 @@
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
-<td id="layout-menu">
+<td id="layout-menu" role="navigation" aria-label="Site navigation">
 <div class="menu-category">COSC 594/650</div>
 <div class="menu-item"><a href="index.html">Overview</a></div>
-<div class="menu-item"><a href="schedule.html" class="current">Schedule</a></div>
+<div class="menu-item"><a href="schedule.html" class="current" aria-current="page">Schedule</a></div>
 <div class="menu-item"><a href="homework.html">Homework</a></div>
 <div class="menu-item"><a href="project.html">Project</a></div>
 </td>
-<td id="layout-content">
+<td id="layout-content" role="main">
 <div id="toptitle">
 <h1>Optimization for Machine Learning (Fall 2026)</h1>
 </div>
@@ -32,9 +32,9 @@
 <tr><td><strong>Week 3</strong><br />Aug 31, Sep 2, 4</td><td>Descent directions, step sizes, and Armijo backtracking; convergence analysis, stationarity, and conditioning.</td><td><ul><li><a href="lectures/lecture-05.pdf">Descent Methods</a></li><li><a href="lectures/lecture-06.pdf">Convergence Analysis</a></li></ul></td></tr>
 <tr><td><strong>Week 4</strong><br />Sep 9, 11</td><td>Gradient descent for strongly convex and convex objectives; convergence rates, iteration complexity, and first-order oracle complexity.</td><td><ul><li><a href="lectures/lecture-07.pdf">Gradient Descent for Strongly Convex Objectives</a></li><li><a href="lectures/lecture-08.pdf">Gradient Descent for Convex Objectives</a></li></ul></td></tr>
 <tr><td><strong>Week 5</strong><br />Sep 16, 18<span class="week-note">No class Sep 14 (conference)</span></td><td>Nesterov acceleration; convergence and complexity analysis; restarting for strongly convex objectives.</td><td><ul><li><a href="lectures/lecture-09.pdf">Nesterov Acceleration</a></li></ul></td></tr>
-<tr><td><strong>Week 6</strong><br />Sep 21, 23, 25</td><td>Constrained optimization: necessary optimality conditions and Lagrangian duality; dual method and convergence analysis.</td><td></td></tr>
-<tr><td><strong>Week 7</strong><br />Sep 28, 30, Oct 2</td><td>Primal-dual method and convergence analysis; augmented Lagrangian method and convergence analysis; in-class midterm.</td><td></td></tr>
-<tr><td><strong>Week 8</strong><br />Oct 7, 9</td><td>Stochastic optimization: stochastic gradient descent; mini-batching, variance reduction, and adaptive methods.</td><td></td></tr>
+<tr><td><strong>Week 6</strong><br />Sep 21, 23, 25</td><td>Constrained optimization: necessary optimality conditions, Lagrangian duality, KKT conditions, and Slater's condition.</td><td><ul><li><a href="lectures/lecture-10.pdf">Constrained Optimization</a></li><li><a href="lectures/lecture-11.pdf">Lagrangian Duality</a></li><li><a href="lectures/lecture-12.pdf">KKT Conditions</a></li><li><a href="lectures/lecture-13.pdf">Slater's Condition and Sensitivity</a></li></ul></td></tr>
+<tr><td><strong>Week 7</strong><br />Sep 28, 30, Oct 2</td><td>Dual method and convergence analysis; primal-dual method and convergence analysis; augmented Lagrangian method and convergence analysis.</td><td><ul><li><a href="lectures/lecture-14.pdf">Dual Method and Convergence</a></li><li><a href="lectures/lecture-15.pdf">Primal-Dual Method and Convergence</a></li></ul></td></tr>
+<tr><td><strong>Week 8</strong><br />Oct 7, 9</td><td>Stochastic optimization: stochastic gradient descent; mini-batching, variance reduction, and adaptive methods; in-class midterm.</td><td></td></tr>
 <tr><td><strong>Week 9</strong><br />Oct 12, 14, 16</td><td>Nonsmooth optimization: proximal, projected, and mirror methods.</td><td></td></tr>
 <tr><td><strong>Week 10</strong><br />Oct 19, 21, 23</td><td>Nonconvex optimization: stationarity, PL conditions, and escaping saddle points.</td><td></td></tr>
 <tr><td><strong>Week 11</strong><br />Oct 26, 28, 30</td><td>Neural network optimization.</td><td></td></tr>
