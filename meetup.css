@@ -55,6 +55,11 @@ h1, h2, h3 {
     width: 100%;
 }
 
+#meetup-schedule td:first-child {
+    width: 5.5em;
+    white-space: nowrap;
+}
+
 @media (max-width: 700px) {
     table#tlayout,
     table#tlayout > tbody,
