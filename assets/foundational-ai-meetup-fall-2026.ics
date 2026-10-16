@@ -26,10 +26,13 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:fai-utk-20261012@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -38,10 +41,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261019@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -50,10 +56,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261026@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -62,10 +71,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261102@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261102T160000
 DTEND;TZID=America/New_York:20261102T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -74,10 +86,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261109@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261109T163000
 DTEND;TZID=America/New_York:20261109T173000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -86,10 +101,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261116@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261116T160000
 DTEND;TZID=America/New_York:20261116T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -98,10 +116,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261123@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261123T160000
 DTEND;TZID=America/New_York:20261123T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
@@ -110,10 +131,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fai-utk-20261130@dongshed.github.io
 DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T145724Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261130T160000
 DTEND;TZID=America/New_York:20261130T170000
 SUMMARY:Foundational AI Meetup@UTK
-LOCATION:435 Min H. Kao Building
+LOCATION:Room 435\, Min H. Kao Building\, 1520 Middle Dr\, Knoxville
+ \, TN 37996
 DESCRIPTION:Schedule: https://dongshed.github.io/meetup.html
 URL:https://dongshed.github.io/meetup.html
 STATUS:CONFIRMED
