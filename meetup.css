@@ -55,7 +55,7 @@ h1, h2, h3 {
     width: 100%;
 }
 
-#meetup-schedule td:first-child {
+#meetup-schedule td.c1 {
     width: 5.5em;
     white-space: nowrap;
 }
