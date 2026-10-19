@@ -16,6 +16,8 @@ h1 { line-height: 1.2; }
 .course-table th { background: #f6f6f6; }
 .course-table td:first-child { white-space: nowrap; }
 #homework td:nth-child(3), #homework td:nth-child(4) { white-space: nowrap; }
+#project-milestones th:nth-child(2), #project-milestones td:nth-child(2),
+#project-milestones th:nth-child(4), #project-milestones td:nth-child(4) { white-space: nowrap; }
 .course-table ul { margin: 0; padding-left: 1.2em; }
 .course-table li + li { margin-top: 0.3em; }
 .course-table .readings { margin-top: 0.7em; }
