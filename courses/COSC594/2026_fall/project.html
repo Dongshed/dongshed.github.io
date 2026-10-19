@@ -22,12 +22,16 @@
 <div id="toptitle">
 <h1>Optimization for Machine Learning (Fall 2026)</h1>
 </div>
+<h2>Overview</h2>
+<p>Each student completes an individual study of an optimization problem for machine learning, supported by theory, experiments, or both. The final outcome is a conference-format research manuscript. Empirical projects also require a reproducible software artifact; theoretical projects do not require code or a software artifact. The project is worth <b>45% of the course grade</b>: 10% for the proposal, 5% for the technical checkpoint, 10% for the presentation, and 20% for the final report.</p>
+<p>COSC 594 projects may develop a meaningful, rigorous extension of existing work. COSC 650 projects are expected to make a stronger original theoretical or empirical contribution. A paper summary or literature review is not a project.</p>
+<div class="infoblock">
+<div class="blockcontent">
+<p><b>Deadlines and submission:</b> Submit each milestone on Canvas by <b>11:59 pm Eastern Time</b> on its listed due date. Presentations take place on <b>Nov 23 or 30</b>; check Canvas for your assigned date, and submit your slides on that date. The final report is due <b>Dec 9</b>. Late report submissions are not accepted.</p>
+</div></div>
 <p><a href="project/project-guideline.pdf">Project Guideline (PDF)</a></p>
-<h2>Project Description</h2>
-<p>Each student completes an individual study of an optimization problem for machine learning, supported by theory, experiments, or both. Choose a problem connected to the course and your research interests, and confirm the scope with the instructor before submitting the proposal. A paper summary or literature review is not a project.</p>
-<p>The final outcome is a conference-format research manuscript. Empirical projects also require a reproducible software artifact; theoretical projects do not require code or a software artifact. COSC 594 projects may develop a meaningful, rigorous extension of existing work. COSC 650 projects are expected to make a stronger original theoretical or empirical contribution.</p>
-<h2>Milestones and Grading</h2>
-<p>The project is worth <b>45% of the course grade</b>. The weights below are contributions to the total course grade.</p>
+<h2>Project Schedule</h2>
+<p>The weights below are contributions to the total course grade.</p>
 <div class="table-scroll" role="region" aria-label="Project milestones" tabindex="0">
 <table class="course-table" id="project-milestones">
 <thead><tr><th scope="col">Milestone</th><th scope="col">Weight</th><th scope="col">Submission</th><th scope="col">Due date</th></tr></thead>
@@ -37,20 +41,60 @@
 <tr><td>Presentation</td><td>10%</td><td>Talk slides</td><td>Nov 23 or 30</td></tr>
 <tr><td>Final report</td><td>20%</td><td>Manuscript; reproducible software artifact for empirical projects</td><td>Dec 9</td></tr>
 </tbody></table></div>
-<p>Submit each milestone on Canvas by <b>11:59 pm Eastern Time</b> on its due date. Check Canvas for your assigned presentation date; slides are due on that date. Late report submissions are not accepted.</p>
-<h2>Submission Guidelines</h2>
+<h2>Reading Guideline</h2>
+<p>If you have not yet identified a project, see the <a href="project/project-readings.pdf">Project Readings (PDF)</a> for suggested readings and questions to help you explore possible topics. You may also develop other course-related topics. Choose a problem connected to the course and your research interests, and confirm the scope with the instructor before submitting the proposal.</p>
+<p>Read the relevant papers with the following questions in mind:</p>
 <ul>
-<li><p><b>Proposal:</b> Two pages, excluding references, are recommended. Describe the problem, research question, related work, baseline, and validation plan.</p>
+<li><p>What optimization problem is being studied, and how does it connect to the lectures?</p>
 </li>
-<li><p><b>Technical checkpoint:</b> Add a one-page progress summary to your proposal. Include initial results and the remaining work plan; empirical projects also include runnable baseline code.</p>
+<li><p>What are the main results, assumptions, and limitations?</p>
 </li>
-<li><p><b>Presentation:</b> A 10-minute talk followed by 2 minutes of Q&amp;A. Approximately 10 slides, excluding transition slides, are recommended.</p>
-</li>
-<li><p><b>Final report:</b> Six pages, excluding references and appendices, are recommended. Use the <a href="https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip">NeurIPS 2025 LaTeX template</a> with the preprint option, and include your name and affiliation.</p>
-</li>
-<li><p><b>AI use:</b> Include an AI Use Statement at each stage, documenting assistance and independent verification, or state that no AI tools were used. Follow the full disclosure requirements in the <a href="project/project-guideline.pdf">project guideline</a>.</p>
+<li><p>What specific question or extension will your project investigate, and how will you evaluate it?</p>
 </li>
 </ul>
+<h2>Proposal and Technical Checkpoint</h2>
+<ul>
+<li><p><b>Proposal:</b> Two pages, excluding references, are recommended. Describe the problem and formulation, research question, related work, baseline, and validation plan.</p>
+</li>
+<li><p><b>Technical checkpoint:</b> Add a one-page progress summary to your proposal. Include initial results, correctness checks, and the remaining work plan. Empirical projects also include runnable baseline code; theoretical projects may present derivations, theorem statements, or proof progress.</p>
+</li>
+</ul>
+<h2>Presentation Guideline</h2>
+<p>Plan a <b>10-minute presentation</b> followed by <b>2 minutes of Q&amp;A</b>. Approximately <b>10 slides, excluding transition slides</b>, are recommended. A suggested structure is:</p>
+<ul>
+<li><p><b>Motivation and question:</b> Introduce the machine learning task, its connection to optimization, and the question your project addresses.</p>
+</li>
+<li><p><b>Problem setup and prior work:</b> Explain the formulation, notation, assumptions, and relevant existing methods.</p>
+</li>
+<li><p><b>Method and evidence:</b> Present the main idea and one or two central technical results, supported by analysis or experiments. Distinguish prior work from your contribution.</p>
+</li>
+<li><p><b>Conclusion and limitations:</b> State what the evidence supports, what remains uncertain, and what you will revise in the final report.</p>
+</li>
+</ul>
+<p>Use readable slides, consistent notation, and clear figures. Explain intuitions before detailed mathematics and prepare to discuss assumptions, design choices, and limitations. Audience questions and feedback contribute to class participation.</p>
+<h2>Report Writing Guideline</h2>
+<p>Write your report in LaTeX using the <a href="https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip">NeurIPS 2025 template</a> with the preprint option, and include your name and affiliation. <b>Six pages, excluding references and appendices, are recommended.</b> Include:</p>
+<ul>
+<li><p><b>Abstract:</b> Summarize the problem, approach, main result, and significance.</p>
+</li>
+<li><p><b>Introduction and related work:</b> Motivate the question, identify the research gap, and state your contribution.</p>
+</li>
+<li><p><b>Problem setup:</b> Define the mathematical formulation, assumptions, and evaluation criteria.</p>
+</li>
+<li><p><b>Method and main results:</b> Present the algorithm, theorem, or empirical finding that addresses the question.</p>
+</li>
+<li><p><b>Derivations and analysis:</b> Explain the reasoning needed to assess correctness; place longer supporting arguments in an appendix if needed.</p>
+</li>
+<li><p><b>Experiments and validation:</b> For empirical claims, describe the data, baselines, settings, metrics, variability, and relevant diagnostic checks.</p>
+</li>
+<li><p><b>Conclusion:</b> Answer the research question at the strength supported by the evidence and discuss limitations.</p>
+</li>
+<li><p><b>Contribution and AI use statements, references, and appendices:</b> Identify your contribution, disclose assistance, and attribute reused ideas, code, data, proofs, and figures.</p>
+</li>
+</ul>
+<p>Revise the report using feedback from the checkpoint and presentation. For empirical projects, submit a repository or code archive that reproduces the central results. Theoretical projects do not require code or a software artifact.</p>
+<h2>Use of Generative AI</h2>
+<p>Include an AI Use Statement at each stage, documenting assistance and independent verification, or state that no AI tools were used. Follow the full disclosure and submission requirements in the <a href="project/project-guideline.pdf">project guideline</a>.</p>
 </td>
 </tr>
 </table>
