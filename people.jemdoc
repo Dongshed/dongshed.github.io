@@ -23,27 +23,11 @@
 
 === University of Tennessee, Knoxville
 
-~~~
-{}{raw}
-<div class="student-profile no-headshot">
-<div class="student-details">
-<p class="student-name"><a href="mailto:jpark156@vols.utk.edu">Jisu Park</a></p>
-<p><strong>Topic:</strong> Constrained reinforcement learning</p>
-<p><strong>Alma mater:</strong> Yonsei University, Seoul, Korea</p>
-<p><strong>Hometown:</strong> Seoul, Korea</p>
-</div>
-</div>
-~~~
+- [mailto:jpark156@vols.utk.edu Jisu Park] \n
+Topic: Constrained reinforcement learning \n
 
-~~~
-{}{raw}
-<div class="student-profile no-headshot">
-<div class="student-details">
-<p class="student-name">Mitchell Loh</p>
-<p><strong>Topic:</strong> Constrained Markov games</p>
-</div>
-</div>
-~~~
+- Mitchell Loh \n
+Topic: Constrained Markov games \n
 
 === University of Pennsylvania
 
