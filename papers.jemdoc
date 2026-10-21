@@ -4,6 +4,10 @@
 
 == Preprints 
 
+- [https://arxiv.org/abs/2610.14307 ConicFlow: Constrained Inference-time optimal control for flow matching models] \n
+Shervin Khalafi, Kasra Fallah, Sung Cho, Dongsheng Ding, James Anderson, Alejandro Ribeiro \n
+Note: [https://arxiv.org/abs/2610.14307 arXiv:2610.14307]; under review.
+
 - Where to spend rollouts: Hit-utility optimal rollout allocation for group-based RLVR \n
 Tao Wang, Shuo Li, Yan Sun, Dongsheng Ding, Edgar Dobriban \n
 Note: [https://arxiv.org/abs/2605.07114v1 arXiv:2605.07114v1]; under review. 
