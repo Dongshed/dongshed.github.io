@@ -11,7 +11,7 @@
 <div class="student-profile">
 <img class="student-headshot" src="students/headshot_Anik%20Saha.jpeg" alt="Headshot of Anik Saha" width="120" height="150" decoding="async" />
 <div class="student-details">
-<p class="student-name"><a href="https://aniksh.github.io">Anik Saha</a></p>
+<p class="student-name student-name-spaced"><a href="https://aniksh.github.io">Anik Saha</a></p>
 <p><strong>Research interests:</strong> Generative models, constrained optimization, and representation learning</p>
 <p><strong>Alma mater:</strong> Bangladesh University of Engineering and Technology</p>
 <p><strong>Hometown:</strong> Dhaka, Bangladesh</p>
@@ -27,13 +27,11 @@
 *Research interests:* Constrained reinforcement learning \n
 *Alma mater:* Yonsei University, Seoul, Korea \n
 *Hometown:* Seoul, Korea \n
-Email: [mailto:jpark156@vols.utk.edu jpark156@vols.utk.edu] \n
 
 - [mailto:mloh1@vols.utk.edu Mitchell Loh] \n
 *Research interests:* Constrained Markov games \n
 *Alma mater:* University of Tennessee, Knoxville \n
 *Hometown:* Nashville, TN \n
-Email: [mailto:mloh1@vols.utk.edu mloh1@vols.utk.edu] \n
 
 === University of Pennsylvania
 

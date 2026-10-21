@@ -39,6 +39,10 @@
     font-weight: bold;
 }
 
+.student-details p.student-name-spaced {
+    margin-bottom: 0.85em;
+}
+
 @media screen and (max-width: 480px) {
     .student-profile {
         grid-template-columns: 90px minmax(0, 1fr);
