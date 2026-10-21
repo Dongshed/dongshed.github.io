@@ -17,6 +17,10 @@
     object-position: center;
 }
 
+.student-profile.no-headshot {
+    grid-template-columns: minmax(0, 1fr);
+}
+
 .student-details {
     min-width: 0;
 }

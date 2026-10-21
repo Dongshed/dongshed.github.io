@@ -2,7 +2,7 @@
 = Dongsheng Ding - Students
 [https://tickle.utk.edu Tickle College of Engineering], [https://www.utk.edu University of Tennessee, Knoxville]
 
-== Current Students
+== Current PhD Students
 
 === University of Tennessee, Knoxville
 
@@ -11,7 +11,7 @@
 <div class="student-profile">
 <img class="student-headshot" src="students/headshot_Anik%20Saha.jpeg" alt="Headshot of Anik Saha" width="120" height="150" decoding="async" />
 <div class="student-details">
-<p class="student-name"><a href="mailto:asaha15@vols.utk.edu">Anik Saha</a></p>
+<p class="student-name"><a href="https://aniksh.github.io">Anik Saha</a></p>
 <p><strong>Topic:</strong> Constraint-led generative modeling</p>
 <p><strong>Alma mater:</strong> Bangladesh University of Engineering and Technology</p>
 <p><strong>Hometown:</strong> Dhaka, Bangladesh</p>
@@ -19,10 +19,13 @@
 </div>
 ~~~
 
+== Current Research Mentee
+
+=== University of Tennessee, Knoxville
+
 ~~~
 {}{raw}
-<div class="student-profile">
-<img class="student-headshot" src="students/headshot_Jisu%20Park.jpeg" alt="Headshot of Jisu Park" width="120" height="150" decoding="async" />
+<div class="student-profile no-headshot">
 <div class="student-details">
 <p class="student-name"><a href="mailto:jpark156@vols.utk.edu">Jisu Park</a></p>
 <p><strong>Topic:</strong> Constrained reinforcement learning</p>
@@ -32,10 +35,15 @@
 </div>
 ~~~
 
-- Mitchell Loh \n
-Topic: Constrained Markov games \n
-
-== Current Research Mentee
+~~~
+{}{raw}
+<div class="student-profile no-headshot">
+<div class="student-details">
+<p class="student-name">Mitchell Loh</p>
+<p><strong>Topic:</strong> Constrained Markov games</p>
+</div>
+</div>
+~~~
 
 === University of Pennsylvania
 
@@ -58,8 +66,7 @@ Current Position: Quantitative Researcher, Citadel Securities
 
 ~~~
 {}{raw}
-<div class="student-profile">
-<img class="student-headshot" src="students/headshot_Zhengyan%20Huan.JPG" alt="Headshot of Zhengyan Huan" width="120" height="150" decoding="async" />
+<div class="student-profile no-headshot">
 <div class="student-details">
 <p class="student-name"><a href="https://zhengyanhuan.github.io">Zhengyan Huan</a></p>
 <p><strong>Paper:</strong> <a href="papers/24dingresilient.pdf">Resilient constrained reinforcement learning</a></p>
