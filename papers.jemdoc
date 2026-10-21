@@ -5,8 +5,8 @@
 == Preprints 
 
 - [https://arxiv.org/abs/2610.14307 ConicFlow: Constrained Inference-time optimal control for flow matching models] \n
-Shervin Khalafi, Kasra Fallah, Sung Cho, Dongsheng Ding, James Anderson, Alejandro Ribeiro \n
-Note: [https://arxiv.org/abs/2610.14307 arXiv:2610.14307]; under review.
+Shervin Khalafi\*, Kasra Fallah\*, Sung Cho, Dongsheng Ding, James Anderson, Alejandro Ribeiro \n
+Note: \*equal contribution; [https://arxiv.org/abs/2610.14307 arXiv:2610.14307]; under review.
 
 - [https://arxiv.org/abs/2605.07114v1 Where to spend rollouts: Hit-utility optimal rollout allocation for group-based RLVR] \n
 Tao Wang, Shuo Li, Yan Sun, Dongsheng Ding, Edgar Dobriban \n
@@ -24,7 +24,7 @@ Note: accepted and to appear.
 - [papers/26khalafiunlearning.pdf Unlearning in diffusion models: A unified framework with KL divergence and likelihood constraints]\n
 Shervin Khalafi\*, Alejandro Ribeiro, Dongsheng Ding\*\n
 /43rd International Conference on Machine Learning/, 2026. \n
-Note: \*corresponding authors; to appear; also [https://arxiv.org/abs/2605.30825 arXiv:2605.30825].
+Note: \*corresponding authors; also [https://arxiv.org/abs/2605.30825 arXiv:2605.30825].
 
 *2025*
 
