@@ -27,6 +27,11 @@ I was a Postdoctoral Researcher in the [https://www.ese.upenn.edu Department of 
 I received my PhD in Electrical Engineering from the [https://www.usc.edu University of Southern California] under the supervision of Professor [https://viterbi-web.usc.edu/~mihailo/ Mihailo R. Jovanovic]. I received my BE in Automation and ME in Control Theory and Engineering from [https://www.zju.edu.cn/english/ Zhejiang University], and my MS in Electrical Engineering from the [https://twin-cities.umn.edu University of Minnesota, Twin Cities].
 
 
+== Research Interests
+My research focuses on application of principles and tools in optimization and control to the study of requirement-driven machine decision-making. I am particularly interested in how constraints, arising from system requirements, shape decision-making in artificial intelligence systems. My current research interests include:
+- *Foundations of Generative Artificial Intelligence*, with an emphasis on understanding and enabling controlled generation in generative models such as large language models and diffusion models.
+- *Foundations of Reinforcement Learning*, particularly in constrained dynamical systems, where agents must learn to act while satisfying operational constraints.
+
 == News
 Nov 2026 Invited talk on [talks/2026_INFORMS.pdf diffusion model unlearning] at the [https://meetings.informs.org/wordpress/annual/ INFORMS Annual Meeting]. \n
 Oct 2026 Invited to serve as an area chair for [https://icml.cc/Conferences/2027 ICML 2027]. \n
@@ -45,11 +50,6 @@ Nov 2025 Invited talk on [talks/2025_SIAM_NNP.pdf LLM alignment] at the [https:/
 Oct 2025 Paper on [papers/25dingconvergence.pdf constrained MDPs] published in /JMLR/. \n
 Sep 2025 Papers on [papers/25zhangalignment.pdf LLM alignment] and [papers/25khalaficomposition.pdf diffusion model composition] accepted to [https://neurips.cc/Conferences/2025 NeurIPS 2025]. \n
 Aug 2025 Joined UT Knoxville EECS as an assistant professor.
-
-== Research Interests
-My research focuses on application of principles and tools in optimization and control to the study of requirement-driven machine decision-making. I am particularly interested in how constraints, arising from system requirements, shape decision-making in artificial intelligence systems. My current research interests include:
-- *Foundations of Generative Artificial Intelligence*, with an emphasis on understanding and enabling controlled generation in generative models such as large language models and diffusion models.
-- *Foundations of Reinforcement Learning*, particularly in constrained dynamical systems, where agents must learn to act while satisfying operational constraints.
 
 == Representative Papers
 
