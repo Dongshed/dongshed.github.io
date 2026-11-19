@@ -27,6 +27,25 @@ I was a Postdoctoral Researcher in the [https://www.ese.upenn.edu Department of 
 I received my PhD in Electrical Engineering from the [https://www.usc.edu University of Southern California] under the supervision of Professor [https://viterbi-web.usc.edu/~mihailo/ Mihailo R. Jovanovic]. I received my BE in Automation and ME in Control Theory and Engineering from [https://www.zju.edu.cn/english/ Zhejiang University], and my MS in Electrical Engineering from the [https://twin-cities.umn.edu University of Minnesota, Twin Cities].
 
 
+== News
+- *Nov 2026*: Invited talk on [talks/2026_INFORMS.pdf diffusion model unlearning] at the [https://meetings.informs.org/wordpress/annual/ INFORMS Annual Meeting].
+- *Oct 2026*: Invited to serve as an area chair for [https://icml.cc/Conferences/2027 ICML 2027].
+- *Oct 2026*: Invited to serve on an NSF proposal review panel.
+- *Sep 2026*: Invited to serve as an area chair for [https://iclr.cc/Conferences/2027 ICLR 2027].
+- *Sep 2026*: Invited poster on constraint-led generative modeling at the [https://events.ornl.gov/ai-core26/ ORNL AI Core Universities Workshop].
+- *Aug 2026*: Invited talk on [talks/2026_IFAC.pdf constrained policy optimization] at the [https://tongxin.me/IFAC_workshop_web/ IFAC Contextual Control Workshop].
+- *Jul 2026*: Paper on [papers.html constrained convex MDPs] accepted to [https://cdc2026.ieeecss.org/ IEEE CDC 2026].
+- *Apr 2026*: Paper on [papers/26khalafiunlearning.pdf diffusion model unlearning] accepted to [https://icml.cc/Conferences/2026 ICML 2026].
+- *Mar 2026*: Received UT Knoxville's GenAI Faculty Fellowship.
+- *Mar 2026*: Invited seminar on [talks/2026_UCSD_Yusu.pdf controllable diffusion models], hosted by [https://yusu.belkin-wang.org/ Yusu Wang's group] at UC San Diego.
+- *Jan 2026*: Joined Sigma Xi.
+- *Dec 2025*: Served as an area chair for the [https://constrained-opt-ml.github.io/ NeurIPS Workshop on Constrained Optimization for Machine Learning].
+- *Nov 2025*: Invited talk on [talks/2025_UTK_Math.pdf LLM alignment] at UT Knoxville.
+- *Nov 2025*: Invited talk on [talks/2025_SIAM_NNP.pdf LLM alignment] at the [https://siamnnp2025.sciencesconf.org/ SIAM NNP Section Conference].
+- *Oct 2025*: Paper on [papers/25dingconvergence.pdf constrained MDPs] published in /JMLR/.
+- *Sep 2025*: Papers on [papers/25zhangalignment.pdf LLM alignment] and [papers/25khalaficomposition.pdf diffusion model composition] accepted to [https://neurips.cc/Conferences/2025 NeurIPS 2025].
+- *Aug 2025*: Joined UT Knoxville EECS as an assistant professor.
+
 == Research Interests
 My research focuses on application of principles and tools in optimization and control to the study of requirement-driven machine decision-making. I am particularly interested in how constraints, arising from system requirements, shape decision-making in artificial intelligence systems. My current research interests include:
 - *Foundations of Generative Artificial Intelligence*, with an emphasis on understanding and enabling controlled generation in generative models such as large language models and diffusion models.
