@@ -157,7 +157,13 @@ p {
 }
 
 .news-items p {
-	margin-bottom: 0.4em;
+	margin-bottom: 0.2em;
+}
+
+.news-items .news-date {
+	display: inline-block;
+	margin-right: 0.55em;
+	white-space: nowrap;
 }
 
 pre {
