@@ -33,39 +33,49 @@ My research focuses on application of principles and tools in optimization and c
 - *Foundations of Reinforcement Learning*, particularly in constrained dynamical systems, where agents must learn to act while satisfying operational constraints.
 
 == News
-Nov 2026 Invited talk on [talks/2026_INFORMS.pdf diffusion model unlearning] at the [https://meetings.informs.org/wordpress/annual/ INFORMS Annual Meeting].
+~~~
+{}{raw}
+<div class="news-items">
+~~~
 
-Oct 2026 Invited to serve as an area chair for [https://icml.cc/Conferences/2027 ICML 2027].
+Nov 2026 Invited talk on [talks/2026_INFORMS.pdf diffusion model unlearning] at the [https://meetings.informs.org/wordpress/annual/ INFORMS Annual Meeting].
 
-Oct 2026 Invited to serve on an NSF proposal review panel.
+Oct 2026 Invited to serve as an area chair for [https://icml.cc/Conferences/2027 ICML 2027].
 
-Sep 2026 Invited to serve as an area chair for [https://iclr.cc/Conferences/2027 ICLR 2027].
+Oct 2026 Invited to serve on an NSF proposal review panel.
 
-Sep 2026 Invited poster on constraint-led generative modeling at the [https://events.ornl.gov/ai-core26/ ORNL AI Core Universities Workshop].
+Sep 2026 Invited to serve as an area chair for [https://iclr.cc/Conferences/2027 ICLR 2027].
 
-Aug 2026 Invited talk on [talks/2026_IFAC.pdf constrained policy optimization] at the [https://tongxin.me/IFAC_workshop_web/ IFAC Contextual Control Workshop].
+Sep 2026 Invited poster on constraint-led generative modeling at the [https://events.ornl.gov/ai-core26/ ORNL AI Core Universities Workshop].
 
-Jul 2026 Paper on constrained convex MDPs accepted to [https://cdc2026.ieeecss.org/ IEEE CDC 2026].
+Aug 2026 Invited talk on [talks/2026_IFAC.pdf constrained policy optimization] at the [https://tongxin.me/IFAC_workshop_web/ IFAC Contextual Control Workshop].
 
-Apr 2026 Paper on [papers/26khalafiunlearning.pdf diffusion model unlearning] accepted to [https://icml.cc/Conferences/2026 ICML 2026].
+Jul 2026 Paper on constrained convex MDPs accepted to [https://cdc2026.ieeecss.org/ IEEE CDC 2026].
 
-Mar 2026 Received UT Knoxville's GenAI Faculty Fellowship.
+Apr 2026 Paper on [papers/26khalafiunlearning.pdf diffusion model unlearning] accepted to [https://icml.cc/Conferences/2026 ICML 2026].
 
-Mar 2026 Invited seminar on [talks/2026_UCSD_Yusu.pdf controllable diffusion models], hosted by [https://yusu.belkin-wang.org/ Yusu Wang's group] at UC San Diego.
+Mar 2026 Received UT Knoxville's GenAI Faculty Fellowship.
 
-Jan 2026 Joined Sigma Xi.
+Mar 2026 Invited seminar on [talks/2026_UCSD_Yusu.pdf controllable diffusion models], hosted by [https://yusu.belkin-wang.org/ Yusu Wang's group] at UC San Diego.
 
-Dec 2025 Served as an area chair for the [https://constrained-opt-ml.github.io/ NeurIPS Workshop on Constrained Optimization for Machine Learning].
+Jan 2026 Joined Sigma Xi.
 
-Nov 2025 Invited talk on [talks/2025_UTK_Math.pdf LLM alignment] at UT Knoxville's Statistics and Data Science Seminar.
+Dec 2025 Served as an area chair for the [https://constrained-opt-ml.github.io/ NeurIPS Workshop on Constrained Optimization for Machine Learning].
 
-Nov 2025 Invited talk on [talks/2025_SIAM_NNP.pdf LLM alignment] at the [https://siamnnp2025.sciencesconf.org/ SIAM NNP Section Conference].
+Nov 2025 Invited talk on [talks/2025_UTK_Math.pdf LLM alignment] at UT Knoxville's Statistics and Data Science Seminar.
 
-Oct 2025 Paper on [papers/25dingconvergence.pdf constrained MDPs] published in /JMLR/.
+Nov 2025 Invited talk on [talks/2025_SIAM_NNP.pdf LLM alignment] at the [https://siamnnp2025.sciencesconf.org/ SIAM NNP Section Conference].
 
-Sep 2025 Papers on [papers/25zhangalignment.pdf LLM alignment] and [papers/25khalaficomposition.pdf diffusion model composition] accepted to [https://neurips.cc/Conferences/2025 NeurIPS 2025].
+Oct 2025 Paper on [papers/25dingconvergence.pdf constrained MDPs] published in [https://jmlr.org/ Journal of Machine Learning Research].
 
-Aug 2025 Joined UT Knoxville EECS as an assistant professor.
+Sep 2025 Papers on [papers/25zhangalignment.pdf LLM alignment] and [papers/25khalaficomposition.pdf diffusion model composition] accepted to [https://neurips.cc/Conferences/2025 NeurIPS 2025].
+
+Aug 2025 Joined UT Knoxville EECS as an assistant professor.
+
+~~~
+{}{raw}
+</div>
+~~~
 
 == Representative Papers
 
