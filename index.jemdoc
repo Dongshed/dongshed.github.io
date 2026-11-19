@@ -38,7 +38,7 @@ My research focuses on application of principles and tools in optimization and c
 <div class="news-items">
 ~~~
 
-{{<span class="news-date">}}Nov 2026{{</span>}} Invited talk on [talks/2026_INFORMS.pdf diffusion model unlearning] at the [https://meetings.informs.org/wordpress/annual/ INFORMS Annual Meeting].
+{{<span class="news-date">}}Nov 2026{{</span>}} Invited presentation on [talks/2026_INFORMS.pdf diffusion model unlearning] at the [https://meetings.informs.org/wordpress/annual/ INFORMS Annual Meeting].
 
 {{<span class="news-date">}}Oct 2026{{</span>}} Invited to serve as an area chair for [https://icml.cc/Conferences/2027 ICML 2027].
 
@@ -48,7 +48,7 @@ My research focuses on application of principles and tools in optimization and c
 
 {{<span class="news-date">}}Sep 2026{{</span>}} Invited poster on constraint-led generative modeling at the [https://events.ornl.gov/ai-core26/ ORNL AI Core Universities Workshop].
 
-{{<span class="news-date">}}Aug 2026{{</span>}} Invited talk on [talks/2026_IFAC.pdf constrained policy optimization] at the [https://tongxin.me/IFAC_workshop_web/ IFAC Contextual Control Workshop].
+{{<span class="news-date">}}Aug 2026{{</span>}} Invited presentation on [talks/2026_IFAC.pdf constrained policy optimization] at the [https://tongxin.me/IFAC_workshop_web/ IFAC Contextual Control Workshop].
 
 {{<span class="news-date">}}Jul 2026{{</span>}} Paper on constrained convex MDPs accepted to [https://cdc2026.ieeecss.org/ IEEE CDC 2026].
 
@@ -62,9 +62,9 @@ My research focuses on application of principles and tools in optimization and c
 
 {{<span class="news-date">}}Dec 2025{{</span>}} Served as an area chair for the [https://constrained-opt-ml.github.io/ NeurIPS Workshop on Constrained Optimization for Machine Learning].
 
-{{<span class="news-date">}}Nov 2025{{</span>}} Invited talk on [talks/2025_UTK_Math.pdf LLM alignment] at UT Knoxville's Statistics and Data Science Seminar.
+{{<span class="news-date">}}Nov 2025{{</span>}} Invited presentation on [talks/2025_UTK_Math.pdf LLM alignment] at UT Knoxville's Statistics and Data Science Seminar.
 
-{{<span class="news-date">}}Nov 2025{{</span>}} Invited talk on [talks/2025_SIAM_NNP.pdf LLM alignment] at the [https://siamnnp2025.sciencesconf.org/ SIAM NNP Section Conference].
+{{<span class="news-date">}}Nov 2025{{</span>}} Invited presentation on [talks/2025_SIAM_NNP.pdf LLM alignment] at the [https://siamnnp2025.sciencesconf.org/ SIAM NNP Section Conference].
 
 {{<span class="news-date">}}Oct 2025{{</span>}} Paper on [papers/25dingconvergence.pdf constrained MDPs] published in [https://jmlr.org/ Journal of Machine Learning Research].
 
